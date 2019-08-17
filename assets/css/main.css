@@ -171,7 +171,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		 margin: 0 0 0 0; /* changed 3rd position 2rem */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1546,7 +1546,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(27, 31, 34, 0.85);
+			background-color: rgba(88, 33, 33, 0.85); /*rgba(27, 31, 34, 0.85);*/
 			border-radius: 4px;
 			opacity: 0;
 		}
